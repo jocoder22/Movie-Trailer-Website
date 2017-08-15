@@ -2,8 +2,8 @@ import os
 import fresh_tomatoes
 import media
 
-y = "C:\Users\ ... \Project"   # This is the directory path where all files - fressh_tomatoes, media, entertainment_center3 -- for the project are save locally
-os.chdir(y)   # Changing the directory where fresh_tomatoes and media modules are saved locally
+y = "C:\Users\ ... \Project"    # This is the directory path where all files - fressh_tomatoes, media, entertainment_center3 -- for the project are save locally
+os.chdir(y)    # Changing to the directory where fresh_tomatoes and media modules are saved locally
 
 # Creating instances of my favorite movies
 foodfight = media.Movie("Foodfight!", "https://images-na.ssl-images-amazon.com/images/M/MV5BMTYwMDY1MDI0NV5BMl5BanBnXkFtZTgwODAyODk3NzE@._V1_UY268_CR9,0,182,268_AL_.jpg", "https://www.youtube.com/watch?v=81uIhu8qrrs")
