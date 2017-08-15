@@ -10,7 +10,8 @@ This project creates a website that displays and plays trailers of favorite movi
 # Requirements
   1. Install Python 2.7 in your computer
       - for installing python follow the link (https://www.python.org/downloads/).
-  2. Clone and save the _starter code_ from (https://github.com/udacity/ud036_StarterCode).
+  2. Clone and save the _starter code_ from (https://github.com/udacity/ud036_StarterCode)
+      - save file with name - fresh_tomatoes.py
 
 ## How to play
 Click on any of the movie's poster and a pop-up window will immediately play trailer of the selected movies. Close the pop-up window at any time and click on another movie's poster to watch the trailer.
