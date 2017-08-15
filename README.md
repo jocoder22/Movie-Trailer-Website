@@ -2,7 +2,7 @@
 This project creates a website that displays and plays trailers of favorite movies. 
 
 # Installation
-Clone the GitHub repository of `movie/entertainment _center3.py` (https://github.com/jocoder22/movie/blob/Working_edit/entertainment%20_center3.py) and `movie/media.py` [https://github.com/jocoder22/movie/blob/Working_edit/media.py]. Save the files to your local computer
+Clone the GitHub repository of `movie/entertainment _center3.py` (https://github.com/jocoder22/movie/blob/Working_edit/entertainment%20_center3.py) and `movie/media.py` [https://github.com/jocoder22/movie/blob/Working_edit/media.py]. Save the files to your local computer.
 
 # Requirements
   1. Install Python 2.7 in your computer
