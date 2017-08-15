@@ -4,7 +4,7 @@ This project creates a website that displays and plays trailers of favorite movi
 # Installation
 Clone the GitHub repository of `movie/entertainment _center3.py` and save to your local computer
 
-# Requirement
+# Requirements
   1. Install Python 2.7 in your computer
       - for installing python follow the link (https://www.python.org/downloads/)
   2. Clone and save the _starter code_ from (https://github.com/udacity/ud036_StarterCode)
