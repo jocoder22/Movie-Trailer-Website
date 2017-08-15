@@ -2,7 +2,7 @@ import os
 import fresh_tomatoes
 import media
 
-y = "C:\Users\ ... \Udacity"   # This is the directory path where all files for the project are save locally
+y = "C:\Users\ ... \Project"   # This is the directory path where all files - fressh_tomatoes, media, entertainment_center3 -- for the project are save locally
 os.chdir(y)   # Changing the directory where fresh_tomatoes and media modules are saved locally
 
 # Creating instances of my favorite movies
