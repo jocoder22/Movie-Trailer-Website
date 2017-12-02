@@ -1,4 +1,4 @@
-# Fresh Tomatoes Movie Trailers Project
+# Movie Trailers Project
 This project creates a website that displays and plays trailers of favorite movies. 
 
 # Running the Project
