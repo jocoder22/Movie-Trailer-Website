@@ -9,8 +9,8 @@ This project creates a website that displays and plays trailers of favorite movi
 
 # Requirements
   1. Install Python 2.7 in your computer
-      - for installing python follow the link (https://www.python.org/downloads/).
-  2. Clone and save the _starter code_ from (https://github.com/udacity/ud036_StarterCode)
+      - for installing python follow the [link](https://www.python.org/downloads/).
+  2. Clone and save the _starter code_ from [udacity](https://github.com/udacity/ud036_StarterCode)
       - save file with name - fresh_tomatoes.py
 
 ## How to play
